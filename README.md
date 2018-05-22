@@ -1,5 +1,5 @@
 ## utils written in python, like web crawler.
-- This repository is make python utils for personal study.
+- This repository is making python utils for personal study.
 
 ## Contents
 - Python crawling
