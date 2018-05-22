@@ -1,3 +1,5 @@
 *.pyc
 *.idea/
 *.DS_Store
+*.search.csv
+*.regressor.xlsx
