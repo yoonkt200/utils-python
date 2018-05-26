@@ -5,3 +5,4 @@
 - Python crawling
 - Python Simple regressor
 - Kaggle Solution with Python
+- Python Sorting
