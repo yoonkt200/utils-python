@@ -1,15 +1,3 @@
-'''
-
-* version : 1.0
-* 파일명 : connector.py
-* 작성일자 : 2018.05.29 
-* 작성자 : Frank
-* 설명 : 모니터링 데이터를 가져오고 병합하는 역할의 클래스
-* 수정자 :
-* 수정 내역 :
-
-'''
-
 import pymysql
 import fetcher
 import pandas as pd
