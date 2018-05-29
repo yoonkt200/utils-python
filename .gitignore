@@ -3,3 +3,4 @@
 *.DS_Store
 *.data_search
 *.data_regressor
+*__pycache__
